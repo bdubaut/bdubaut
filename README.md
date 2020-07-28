@@ -4,9 +4,8 @@ Attracted by both growth opportunities and challenges, I have been building and 
 
 ## Publications
 ### Making mistakes with GraphQL
-2017-10-04
 [Read the article on Medium](https://medium.com/impraise-design-engineering/making-mistakes-with-graphql-874b8ca62b9d)
-Article written as part of the Impraise tech blog, going over the learning curve of running GraphQL in production.
+Article written as part of the [@impraise](https://github.com/impraise) tech blog, going over the learning curve of running GraphQL in production.
 
 ### Public speaking
 I am available to for public speaking. I have spoken publically about Ruby, Elixir, GraphQL, Domain modeling and CQRS/ES. I also practice [Event storming](https://eventstorming.com).
