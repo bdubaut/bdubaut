@@ -8,7 +8,7 @@ Attracted by both growth opportunities and challenges, I have been building and 
 Article written as part of the [@impraise](https://github.com/impraise) tech blog, going over the learning curve of running GraphQL in production.
 
 ### Public speaking
-I am available to for public speaking. I have spoken publically about Ruby, Elixir, GraphQL, Domain modeling and CQRS/ES. I also practice [Event storming](https://eventstorming.com).
+I am available to for public speaking. I have spoken publicly about Ruby, Elixir, GraphQL, Domain modeling and CQRS/ES. I also practice [Event storming](https://eventstorming.com).
 
 You can find all the talks that I have given inside my [@bdubaut/talks](https://github.com/bdubaut/talks) repo.
 
