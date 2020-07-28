@@ -1,4 +1,3 @@
-### Hi there 👋
 Attracted by both growth opportunities and challenges, I have been building and scaling systems & teams alike in order to drive value for both customers and the organizations I work with. I have a strategic and analytical mind, which helps me provide structure, vision and leadership to empower the people I collaborate with. I am now looking for a new challenge that will allow me to further develop my leadership skills alongside utilizing my technical experience which includes cloud architecture, software design & development, Domain modeling, Object-oriented programming and Functional programming
 
 ## Publications
