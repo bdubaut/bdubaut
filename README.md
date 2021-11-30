@@ -1,6 +1,12 @@
 # Hello there 👋
 
-Attracted by both growth opportunities and challenges, I have been building and scaling systems & teams alike in order to drive value for both customers and the organizations I work with. I have a strategic and analytical mind, which helps me provide structure, vision and leadership to empower the people I collaborate with. I am now looking for a new challenge that will allow me to further develop my leadership skills alongside utilizing my technical experience which includes cloud architecture, software design & development, Domain modeling, Object-oriented programming and Functional programming.
+Engineering leader with 10+ years experience in software development, architecture and proven record in growing people and scaling teams at startups and scale-ups around the world.
+
+Currently Engineering Director/de facto VP of Engineering at Zivver, an Amsterdam-based security scale-up. Managing managers, focused on people, growth, engineering culture, reporting and assisting the CTO with bringing the organisation, its strategy and its infrastructure to the next level.
+
+Former Engineering Manager and interim Head of Technology at Impraise, a local scale-up in the HR-tech space recently acquired by BetterUp. Represented engineering at senior leadership level, creating architectural blueprints for company-wide initiatives and laying out the tech principles for the engineering team.
+
+Domain driven design, agile advocate and OKR aficionado, Elixir enthusiast, coach, and former pro baseball player wannabe. Dog walker at lunch and whiskey & cocktail connoisseur after dinner.
 
 ## Publications
 ### Making mistakes with GraphQL
