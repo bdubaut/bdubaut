@@ -6,7 +6,7 @@ Currently Engineering Director/de facto VP of Engineering at Zivver, an Amsterda
 
 Former Engineering Manager and interim Head of Technology at Impraise, a local scale-up in the HR-tech space recently acquired by BetterUp. Represented engineering at senior leadership level, creating architectural blueprints for company-wide initiatives and laying out the tech principles for the engineering team.
 
-Domain driven design, agile advocate and OKR aficionado, Elixir enthusiast, coach, and former pro baseball player wannabe. Dog walker at lunch and whiskey & cocktail connoisseur after dinner.
+Domain driven design, Agile and DevOps mindset advocate, OKR aficionado, Elixir enthusiast, coach, and former pro baseball player wannabe. Dog walker at lunch and whiskey & cocktail connoisseur after dinner.
 
 ## Publications
 ### Making mistakes with GraphQL
