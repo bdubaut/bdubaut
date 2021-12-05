@@ -17,6 +17,3 @@ Article written as part of the [@impraise](https://github.com/impraise) tech blo
 I am available to for public speaking. I have spoken publicly about Ruby, Elixir, GraphQL, Domain modeling and CQRS/ES. I also practice [Event storming](https://eventstorming.com).
 
 You can find all the talks that I have given inside my [@bdubaut/talks](https://github.com/bdubaut/talks) repo.
-
-## Outside of work
-Growing up, I played baseball competitively at a high level. Playing baseball took me all across the world, I played in France, the USA, Australia, the Netherlands, and all across Europe for international tournaments. As I was embracing my engineering and management career, I stayed involved in the baseball community and started coaching mostly youth teams (kids aged from 9 to 17-18). We won regional and national titles with these teams, and some of the kids there reached their national teams. Even though my career is now in Technology, I have been managing and coaching teams for a long time. 
