@@ -2,9 +2,9 @@
 
 Engineering leader with 10+ years experience in software development, architecture and proven record in growing people and scaling teams at startups and scale-ups around the world.
 
-Currently Engineering Director/de facto VP of Engineering at Zivver, an Amsterdam-based security scale-up. Managing managers, focused on people, growth, engineering culture, reporting and assisting the CTO with bringing the organisation, its strategy and its infrastructure to the next level.
+Currently Engineering Manager for [Booking.com](https://booking.com), I am building teams, developing humans and optimizing ways of working.
 
-Former Engineering Manager and interim Head of Technology at Impraise, a local scale-up in the HR-tech space recently acquired by BetterUp. Represented engineering at senior leadership level, creating architectural blueprints for company-wide initiatives and laying out the tech principles for the engineering team.
+Former Director of Engineering at [Zivver](https://zivver.com) and interim Head of Technology at Impraise, a local scale-up in the HR-tech space recently acquired by BetterUp. Represented engineering at senior leadership level, creating architectural blueprints for company-wide initiatives and laying out the tech principles for the engineering team.
 
 Domain driven design, Agile and DevOps mindset advocate, OKR aficionado, Elixir enthusiast, coach, and former pro baseball player wannabe. Dog walker at lunch and whiskey & cocktail connoisseur after dinner.
 
